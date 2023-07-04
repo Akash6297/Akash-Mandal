@@ -4,7 +4,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 
 ## Live Demo
 
-Check out the live demo of the website: [Akash's Portfolio](https://akash6297.github.io/Akash-Portfolio/)
+Check out the live demo of the website: [Akash's Portfolio](https://akash6297.github.io/Akash-Mandal/)
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ Check out the live demo of the website: [Akash's Portfolio](https://akash6297.gi
 
 ## Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/akash6297/Akash-Portfolio/issues) to contribute to this project.
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/akash6297/Akash-Mandal/issues) to contribute to this project.
 
 ## License
 
